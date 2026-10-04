@@ -2,7 +2,7 @@ import { readFile, writeFile, rename } from 'node:fs/promises';
 
 const arquivo = new URL('./painel.json', import.meta.url);
 const painel = JSON.parse(await readFile(arquivo, 'utf8'));
-const codigoCargo = { 'Governador(a)': 3, 'Senador(a)': 5, 'Deputado(a) Federal': 6, 'Deputado(a) Estadual': 7, 'Deputado(a) Distrital': 8 };
+const codigoCargo = { 'Governador(a)': 3, 'Vice-governador(a)': 3, 'Senador(a)': 5, 'Deputado(a) Federal': 6, 'Deputado(a) Estadual': 7, 'Deputado(a) Distrital': 8 };
 const nomeCargo = { 3: 'Governador(a)', 5: 'Senador(a)', 6: 'Deputado(a) Federal', 7: 'Deputado(a) Estadual', 8: 'Deputado(a) Distrital' };
 const url = (uf, codigo) => `https://resultados.tse.jus.br/oficial/ele2026/6259/dados/${uf}/${uf}-c${String(codigo).padStart(4, '0')}-e006259-u.json`;
 const chave = (uf, cargo, numero, tipo = 'TITULAR') => `${uf}|${cargo}|${numero}|${tipo}`;
@@ -39,6 +39,7 @@ for (const { uf, codigo, j } of baixados) {
     for (const membro of cand.vs || []) {
       const tipo = membro.tp === 'v' ? 'VICE' : membro.tp === 's1' ? 'SUPLENTE_SENADO' : null;
       if (tipo) registros.set(chave(uf.toUpperCase(), cargo, String(cand.n), tipo), base);
+      if (tipo === 'VICE') registros.set(chave(uf.toUpperCase(), 'Vice-governador(a)', String(cand.n), tipo), base);
     }
   }
 }
