@@ -44,10 +44,11 @@ for (const { uf, codigo, j } of baixados) {
   }
 }
 const ausentes = painel.candidaturas.filter(c => !registros.has(chave(c.uf, c.cargo, String(c.numero), c.tipo_participacao)));
-if (ausentes.length) throw new Error(`Pareamento interrompido: ${ausentes.length} candidatura(s) não encontrada(s). Nenhum dado foi publicado.`);
+if (ausentes.length) console.warn(`Pareamento parcial: ${ausentes.length} candidatura(s) permanecerão em revisão.`);
 const momento = agora();
 painel.candidaturas = painel.candidaturas.map(c => {
   const r = registros.get(chave(c.uf, c.cargo, String(c.numero), c.tipo_participacao));
+  if (!r) return { ...c, status: 'EM_REVISAO', rotulo_status: 'Em revisão', votos_nominais: 0, pct_votos_validos: 0, pct_secoes_totalizadas: null, grau_certeza: 'PARCIAL', url_conferencia: null, atualizado_em: momento };
   const status = normalizar(r.status, c.tipo_participacao, r.ea);
   return { ...c, status, rotulo_status: rotulo(status), votos_nominais: r.votos, pct_votos_validos: r.percentual, pct_secoes_totalizadas: r.totalizacao, grau_certeza: ['ELEITO', 'SUPLENTE', 'NAO_ELEITO', 'FORA_DA_URNA'].includes(status) ? 'CONFIRMADO' : 'PARCIAL', chapa_titular: c.tipo_participacao === 'TITULAR' ? null : r.chapa, url_conferencia: r.url, atualizado_em: momento };
 });
