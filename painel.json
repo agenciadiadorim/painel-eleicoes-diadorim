@@ -1,18 +1,17 @@
 {
   "versao_schema": "1.0",
-  "gerado_em": "04/10/2026 17:35:24",
+  "gerado_em": "04/10/2026 18:30:29",
   "fase": "APURACAO_1T",
   "fonte": "Justiça Eleitoral (TSE) — EA20 oficial",
   "situacao_sistema": "OK",
-  "ultima_atualizacao_ok": "04/10/2026 17:35:24",
+  "ultima_atualizacao_ok": "04/10/2026 18:30:29",
   "ufs_indisponiveis": [],
   "resumo": {
     "monitoradas": 337,
     "na_urna": 337,
     "por_status": {
-      "EM_APURACAO": 327,
-      "EM_REVISAO": 9,
-      "AGUARDANDO_DADOS": 1
+      "EM_APURACAO": 328,
+      "EM_REVISAO": 9
     },
     "totalizacao_por_cargo_uf": []
   },
@@ -29,7 +28,7 @@
       "numero": "18999",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 12,
+      "votos_nominais": 77,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -38,7 +37,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pr/pr-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0002",
@@ -52,8 +51,8 @@
       "numero": "13166",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 0,
-      "pct_votos_validos": 0,
+      "votos_nominais": 51,
+      "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
       "pct_secoes_totalizadas": null,
@@ -61,7 +60,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/al/al-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0003",
@@ -75,7 +74,7 @@
       "numero": "40222",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 2,
+      "votos_nominais": 71,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -84,7 +83,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rs/rs-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0004",
@@ -98,7 +97,7 @@
       "numero": "40222",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 7,
+      "votos_nominais": 42,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -107,7 +106,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/am/am-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0005",
@@ -121,7 +120,7 @@
       "numero": "80000",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 2,
+      "votos_nominais": 81,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -130,7 +129,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0006",
@@ -144,8 +143,8 @@
       "numero": "20067",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 0,
-      "pct_votos_validos": 0,
+      "votos_nominais": 36,
+      "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
       "pct_secoes_totalizadas": null,
@@ -153,7 +152,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0007",
@@ -167,8 +166,8 @@
       "numero": "50192",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 0,
-      "pct_votos_validos": 0,
+      "votos_nominais": 299,
+      "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
       "pct_secoes_totalizadas": null,
@@ -176,7 +175,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/es/es-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0008",
@@ -190,8 +189,8 @@
       "numero": "50555",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 0,
-      "pct_votos_validos": 0,
+      "votos_nominais": 93,
+      "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
       "pct_secoes_totalizadas": null,
@@ -199,7 +198,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pe/pe-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0009",
@@ -213,8 +212,8 @@
       "numero": "50123",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 0,
-      "pct_votos_validos": 0,
+      "votos_nominais": 728,
+      "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
       "pct_secoes_totalizadas": null,
@@ -222,7 +221,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/es/es-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0010",
@@ -236,7 +235,7 @@
       "numero": "50222",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 6,
+      "votos_nominais": 813,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -245,7 +244,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0011",
@@ -259,7 +258,7 @@
       "numero": "13130",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 6096,
+      "votos_nominais": 18139,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -268,7 +267,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pr/pr-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0012",
@@ -282,8 +281,8 @@
       "numero": "50420",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 0,
-      "pct_votos_validos": 0,
+      "votos_nominais": 9,
+      "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
       "pct_secoes_totalizadas": null,
@@ -291,7 +290,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ce/ce-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0013",
@@ -305,7 +304,7 @@
       "numero": "50123",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 93,
+      "votos_nominais": 578,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -314,7 +313,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/mg/mg-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0014",
@@ -328,7 +327,7 @@
       "numero": "13131",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 15,
+      "votos_nominais": 619,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -337,7 +336,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pi/pi-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0015",
@@ -351,7 +350,7 @@
       "numero": "13131",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 64,
+      "votos_nominais": 897,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -360,7 +359,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ac/ac-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0016",
@@ -374,7 +373,7 @@
       "numero": "50110",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 64,
+      "votos_nominais": 22859,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -383,7 +382,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0017",
@@ -397,7 +396,7 @@
       "numero": "13580",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 18,
+      "votos_nominais": 14384,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -406,7 +405,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0018",
@@ -420,7 +419,7 @@
       "numero": "13070",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 204,
+      "votos_nominais": 4775,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -429,7 +428,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/mg/mg-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0019",
@@ -443,7 +442,7 @@
       "numero": "80180",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 5,
+      "votos_nominais": 229,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -452,7 +451,7 @@
       "chapa_titular": null,
       "coletiva": true,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/go/go-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0020",
@@ -466,7 +465,7 @@
       "numero": "12345",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 12,
+      "votos_nominais": 2298,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -475,7 +474,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0021",
@@ -489,7 +488,7 @@
       "numero": "50700",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 169,
+      "votos_nominais": 65221,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -498,7 +497,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0022",
@@ -512,7 +511,7 @@
       "numero": "12140",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 30,
+      "votos_nominais": 89,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -521,7 +520,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pr/pr-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0023",
@@ -535,7 +534,7 @@
       "numero": "50437",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 3,
+      "votos_nominais": 115,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -544,7 +543,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ba/ba-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0024",
@@ -558,7 +557,7 @@
       "numero": "80180",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 2,
+      "votos_nominais": 128,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -567,7 +566,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0025",
@@ -581,7 +580,7 @@
       "numero": "50321",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 3,
+      "votos_nominais": 29,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -590,7 +589,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sc/sc-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0026",
@@ -604,7 +603,7 @@
       "numero": "45124",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 9,
+      "votos_nominais": 34,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -613,7 +612,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/to/to-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0027",
@@ -627,7 +626,7 @@
       "numero": "50999",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 150,
+      "votos_nominais": 9140,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -636,7 +635,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pe/pe-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0028",
@@ -650,8 +649,8 @@
       "numero": "20909",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 0,
-      "pct_votos_validos": 0,
+      "votos_nominais": 88,
+      "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
       "pct_secoes_totalizadas": null,
@@ -659,7 +658,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/es/es-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0029",
@@ -673,7 +672,7 @@
       "numero": "40040",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 104,
+      "votos_nominais": 1249,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -682,7 +681,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/mg/mg-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0030",
@@ -696,8 +695,8 @@
       "numero": "80800",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 0,
-      "pct_votos_validos": 0,
+      "votos_nominais": 114,
+      "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
       "pct_secoes_totalizadas": null,
@@ -705,7 +704,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0031",
@@ -719,8 +718,8 @@
       "numero": "40969",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 0,
-      "pct_votos_validos": 0,
+      "votos_nominais": 12,
+      "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
       "pct_secoes_totalizadas": null,
@@ -728,7 +727,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0032",
@@ -742,7 +741,7 @@
       "numero": "13000",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 224,
+      "votos_nominais": 1149,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -751,7 +750,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sc/sc-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0033",
@@ -765,7 +764,7 @@
       "numero": "18000",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 9,
+      "votos_nominais": 644,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -774,7 +773,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pe/pe-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0034",
@@ -788,7 +787,7 @@
       "numero": "50900",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 48,
+      "votos_nominais": 22946,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -797,7 +796,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0035",
@@ -811,7 +810,7 @@
       "numero": "13621",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 33,
+      "votos_nominais": 4521,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -820,7 +819,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/es/es-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0036",
@@ -834,7 +833,7 @@
       "numero": "40456",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 46,
+      "votos_nominais": 3839,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -843,7 +842,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ce/ce-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0037",
@@ -857,7 +856,7 @@
       "numero": "13313",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 587,
+      "votos_nominais": 11633,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -866,7 +865,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sc/sc-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0038",
@@ -880,7 +879,7 @@
       "numero": "13700",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 606,
+      "votos_nominais": 3100,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -889,7 +888,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pa/pa-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0039",
@@ -903,7 +902,7 @@
       "numero": "13913",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 9,
+      "votos_nominais": 3347,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -912,7 +911,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0040",
@@ -926,7 +925,7 @@
       "numero": "50505",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 1,
+      "votos_nominais": 22,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -935,7 +934,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sc/sc-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0041",
@@ -949,8 +948,8 @@
       "numero": "50024",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 0,
-      "pct_votos_validos": 0,
+      "votos_nominais": 3,
+      "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
       "pct_secoes_totalizadas": null,
@@ -958,7 +957,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pe/pe-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0042",
@@ -972,8 +971,8 @@
       "numero": "50990",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 0,
-      "pct_votos_validos": 0,
+      "votos_nominais": 106,
+      "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
       "pct_secoes_totalizadas": null,
@@ -981,7 +980,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/go/go-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0043",
@@ -995,7 +994,7 @@
       "numero": "13555",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 102,
+      "votos_nominais": 796,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -1004,7 +1003,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pr/pr-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0044",
@@ -1018,7 +1017,7 @@
       "numero": "13027",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 1,
+      "votos_nominais": 579,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -1027,7 +1026,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/es/es-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0045",
@@ -1041,7 +1040,7 @@
       "numero": "12180",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 13,
+      "votos_nominais": 236,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -1050,7 +1049,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sc/sc-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0046",
@@ -1073,7 +1072,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": null,
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0047",
@@ -1087,7 +1086,7 @@
       "numero": "13024",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 2,
+      "votos_nominais": 164,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -1096,7 +1095,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0048",
@@ -1110,8 +1109,8 @@
       "numero": "12777",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 0,
-      "pct_votos_validos": 0,
+      "votos_nominais": 1178,
+      "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
       "pct_secoes_totalizadas": null,
@@ -1119,7 +1118,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0049",
@@ -1133,7 +1132,7 @@
       "numero": "13030",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 39,
+      "votos_nominais": 1208,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -1142,7 +1141,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/go/go-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0050",
@@ -1165,7 +1164,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": null,
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0051",
@@ -1179,7 +1178,7 @@
       "numero": "13132",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 2100,
+      "votos_nominais": 6992,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -1188,7 +1187,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pr/pr-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0052",
@@ -1202,7 +1201,7 @@
       "numero": "50024",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 6,
+      "votos_nominais": 1251,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -1211,7 +1210,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0053",
@@ -1225,7 +1224,7 @@
       "numero": "55321",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 420,
+      "votos_nominais": 2555,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -1234,7 +1233,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/am/am-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0054",
@@ -1248,8 +1247,8 @@
       "numero": "15015",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 0,
-      "pct_votos_validos": 0,
+      "votos_nominais": 8,
+      "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
       "pct_secoes_totalizadas": null,
@@ -1257,7 +1256,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/al/al-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0055",
@@ -1271,7 +1270,7 @@
       "numero": "12047",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 8,
+      "votos_nominais": 125,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -1280,7 +1279,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ms/ms-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0056",
@@ -1294,7 +1293,7 @@
       "numero": "50500",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 38,
+      "votos_nominais": 1942,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -1303,7 +1302,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ce/ce-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0057",
@@ -1317,8 +1316,8 @@
       "numero": "50303",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 0,
-      "pct_votos_validos": 0,
+      "votos_nominais": 153,
+      "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
       "pct_secoes_totalizadas": null,
@@ -1326,7 +1325,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0058",
@@ -1340,7 +1339,7 @@
       "numero": "80000",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 5,
+      "votos_nominais": 217,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -1349,7 +1348,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rs/rs-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0059",
@@ -1363,7 +1362,7 @@
       "numero": "12123",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 422,
+      "votos_nominais": 1407,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -1372,7 +1371,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pr/pr-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0060",
@@ -1386,7 +1385,7 @@
       "numero": "13190",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 49,
+      "votos_nominais": 1193,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -1395,7 +1394,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pr/pr-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0061",
@@ -1409,7 +1408,7 @@
       "numero": "13813",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 13,
+      "votos_nominais": 4124,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -1418,7 +1417,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0062",
@@ -1432,7 +1431,7 @@
       "numero": "50099",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 9535,
+      "votos_nominais": 52412,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -1441,7 +1440,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/mg/mg-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0063",
@@ -1455,7 +1454,7 @@
       "numero": "70789",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 96,
+      "votos_nominais": 6320,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -1464,7 +1463,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/mg/mg-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0064",
@@ -1478,7 +1477,7 @@
       "numero": "80000",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 4,
+      "votos_nominais": 1555,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -1487,7 +1486,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0065",
@@ -1501,7 +1500,7 @@
       "numero": "12888",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 2,
+      "votos_nominais": 820,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -1510,7 +1509,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0066",
@@ -1524,8 +1523,8 @@
       "numero": "36661",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 0,
-      "pct_votos_validos": 0,
+      "votos_nominais": 21,
+      "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
       "pct_secoes_totalizadas": null,
@@ -1533,7 +1532,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/es/es-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0067",
@@ -1547,7 +1546,7 @@
       "numero": "13180",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 98,
+      "votos_nominais": 27349,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -1556,7 +1555,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0068",
@@ -1570,7 +1569,7 @@
       "numero": "13133",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 3209,
+      "votos_nominais": 10052,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -1579,7 +1578,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pr/pr-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0069",
@@ -1593,7 +1592,7 @@
       "numero": "13123",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 917,
+      "votos_nominais": 29045,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -1602,7 +1601,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ms/ms-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0070",
@@ -1616,7 +1615,7 @@
       "numero": "13100",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 576,
+      "votos_nominais": 24623,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -1625,7 +1624,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rs/rs-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0071",
@@ -1639,8 +1638,8 @@
       "numero": "18181",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 0,
-      "pct_votos_validos": 0,
+      "votos_nominais": 66,
+      "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
       "pct_secoes_totalizadas": null,
@@ -1648,7 +1647,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0072",
@@ -1662,7 +1661,7 @@
       "numero": "13066",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 91,
+      "votos_nominais": 384,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -1671,7 +1670,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/mt/mt-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0073",
@@ -1685,7 +1684,7 @@
       "numero": "13016",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 182,
+      "votos_nominais": 25113,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -1694,7 +1693,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0074",
@@ -1708,7 +1707,7 @@
       "numero": "55113",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 11,
+      "votos_nominais": 383,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -1717,7 +1716,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ba/ba-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0075",
@@ -1731,7 +1730,7 @@
       "numero": "13111",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 51,
+      "votos_nominais": 502,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -1740,7 +1739,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/mg/mg-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0076",
@@ -1754,8 +1753,8 @@
       "numero": "15444",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 0,
-      "pct_votos_validos": 0,
+      "votos_nominais": 49,
+      "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
       "pct_secoes_totalizadas": null,
@@ -1763,7 +1762,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ce/ce-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0077",
@@ -1777,7 +1776,7 @@
       "numero": "18691",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 18,
+      "votos_nominais": 195,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -1786,7 +1785,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pb/pb-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0078",
@@ -1800,7 +1799,7 @@
       "numero": "65035",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 14,
+      "votos_nominais": 7612,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -1809,7 +1808,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0079",
@@ -1823,7 +1822,7 @@
       "numero": "50316",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 1,
+      "votos_nominais": 87,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -1832,7 +1831,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/es/es-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0080",
@@ -1846,7 +1845,7 @@
       "numero": "40444",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 11,
+      "votos_nominais": 643,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -1855,7 +1854,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/go/go-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0081",
@@ -1869,8 +1868,8 @@
       "numero": "16123",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 0,
-      "pct_votos_validos": 0,
+      "votos_nominais": 103,
+      "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
       "pct_secoes_totalizadas": null,
@@ -1878,7 +1877,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0082",
@@ -1892,7 +1891,7 @@
       "numero": "43555",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 121,
+      "votos_nominais": 933,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -1901,7 +1900,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/mg/mg-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0083",
@@ -1915,8 +1914,8 @@
       "numero": "50678",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 0,
-      "pct_votos_validos": 0,
+      "votos_nominais": 402,
+      "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
       "pct_secoes_totalizadas": null,
@@ -1924,7 +1923,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0084",
@@ -1938,7 +1937,7 @@
       "numero": "50005",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 13,
+      "votos_nominais": 87,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -1947,7 +1946,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sc/sc-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0085",
@@ -1970,7 +1969,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": null,
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0086",
@@ -1984,7 +1983,7 @@
       "numero": "13333",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 947,
+      "votos_nominais": 4088,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -1993,7 +1992,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/to/to-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0087",
@@ -2007,7 +2006,7 @@
       "numero": "65000",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 160,
+      "votos_nominais": 3807,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -2016,7 +2015,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ma/ma-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0088",
@@ -2030,7 +2029,7 @@
       "numero": "50001",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 1,
+      "votos_nominais": 125,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -2039,7 +2038,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pe/pe-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0089",
@@ -2053,7 +2052,7 @@
       "numero": "40333",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 6,
+      "votos_nominais": 97,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -2062,7 +2061,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ma/ma-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0090",
@@ -2085,7 +2084,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": null,
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0091",
@@ -2099,7 +2098,7 @@
       "numero": "50100",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 171,
+      "votos_nominais": 3764,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -2108,7 +2107,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rn/rn-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0092",
@@ -2122,7 +2121,7 @@
       "numero": "40700",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 6,
+      "votos_nominais": 3202,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -2131,7 +2130,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0093",
@@ -2154,7 +2153,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": null,
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0094",
@@ -2168,8 +2167,8 @@
       "numero": "36476",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 0,
-      "pct_votos_validos": 0,
+      "votos_nominais": 8,
+      "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
       "pct_secoes_totalizadas": null,
@@ -2177,7 +2176,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0095",
@@ -2191,8 +2190,8 @@
       "numero": "13220",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 0,
-      "pct_votos_validos": 0,
+      "votos_nominais": 80,
+      "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
       "pct_secoes_totalizadas": null,
@@ -2200,7 +2199,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ce/ce-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0096",
@@ -2223,7 +2222,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ba/ba-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0097",
@@ -2237,7 +2236,7 @@
       "numero": "50000",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 23,
+      "votos_nominais": 184,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -2246,7 +2245,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sc/sc-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0098",
@@ -2260,7 +2259,7 @@
       "numero": "50570",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 2,
+      "votos_nominais": 114,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -2269,7 +2268,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rs/rs-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0099",
@@ -2283,7 +2282,7 @@
       "numero": "13000",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 2151,
+      "votos_nominais": 17942,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -2292,7 +2291,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pr/pr-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0100",
@@ -2306,7 +2305,7 @@
       "numero": "12000",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 121,
+      "votos_nominais": 643,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -2315,7 +2314,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/am/am-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0101",
@@ -2329,7 +2328,7 @@
       "numero": "13333",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 2123,
+      "votos_nominais": 16557,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -2338,7 +2337,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pb/pb-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0102",
@@ -2352,7 +2351,7 @@
       "numero": "13456",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 21,
+      "votos_nominais": 1479,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -2361,7 +2360,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pe/pe-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0103",
@@ -2375,7 +2374,7 @@
       "numero": "13000",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 741,
+      "votos_nominais": 30892,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -2384,7 +2383,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/go/go-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0104",
@@ -2398,7 +2397,7 @@
       "numero": "65656",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 119,
+      "votos_nominais": 5873,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -2407,7 +2406,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rs/rs-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0105",
@@ -2421,7 +2420,7 @@
       "numero": "40012",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 7,
+      "votos_nominais": 7629,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -2430,13 +2429,13 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0106",
       "nome_exibicao": "Linda Brasil",
-      "rotulo_status": "Aguardando dados",
-      "status": "AGUARDANDO_DADOS",
+      "rotulo_status": "Em apuração",
+      "status": "EM_APURACAO",
       "cargo": "Deputado(a) Estadual",
       "uf": "SE",
       "regiao": "Nordeste",
@@ -2444,16 +2443,16 @@
       "numero": "50180",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 0,
-      "pct_votos_validos": 0,
+      "votos_nominais": 19990,
+      "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
-      "pct_secoes_totalizadas": 0,
+      "pct_secoes_totalizadas": null,
       "tipo_participacao": "TITULAR",
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/se/se-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0107",
@@ -2467,7 +2466,7 @@
       "numero": "43777",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 1,
+      "votos_nominais": 78,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -2476,7 +2475,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pe/pe-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0108",
@@ -2490,8 +2489,8 @@
       "numero": "15057",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 0,
-      "pct_votos_validos": 0,
+      "votos_nominais": 14,
+      "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
       "pct_secoes_totalizadas": null,
@@ -2499,7 +2498,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0109",
@@ -2513,7 +2512,7 @@
       "numero": "45134",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 87,
+      "votos_nominais": 243,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -2522,7 +2521,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pr/pr-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0110",
@@ -2536,8 +2535,8 @@
       "numero": "50111",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 0,
-      "pct_votos_validos": 0,
+      "votos_nominais": 70,
+      "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
       "pct_secoes_totalizadas": null,
@@ -2545,7 +2544,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ba/ba-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0111",
@@ -2559,7 +2558,7 @@
       "numero": "65123",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 66,
+      "votos_nominais": 14609,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -2568,7 +2567,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0112",
@@ -2582,7 +2581,7 @@
       "numero": "50420",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 25,
+      "votos_nominais": 165,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -2591,7 +2590,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/am/am-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0113",
@@ -2605,7 +2604,7 @@
       "numero": "13113",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 3681,
+      "votos_nominais": 13379,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -2614,7 +2613,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pr/pr-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0114",
@@ -2628,7 +2627,7 @@
       "numero": "50050",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 30,
+      "votos_nominais": 5390,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -2637,7 +2636,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0115",
@@ -2651,8 +2650,8 @@
       "numero": "12077",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 0,
-      "pct_votos_validos": 0,
+      "votos_nominais": 19,
+      "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
       "pct_secoes_totalizadas": null,
@@ -2660,7 +2659,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0116",
@@ -2674,7 +2673,7 @@
       "numero": "13180",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 37,
+      "votos_nominais": 1245,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -2683,7 +2682,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ce/ce-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0117",
@@ -2697,7 +2696,7 @@
       "numero": "50000",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 14,
+      "votos_nominais": 2975,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -2706,7 +2705,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0118",
@@ -2720,7 +2719,7 @@
       "numero": "13707",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 55,
+      "votos_nominais": 1177,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -2729,7 +2728,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/mg/mg-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0119",
@@ -2743,7 +2742,7 @@
       "numero": "65180",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 107,
+      "votos_nominais": 1616,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -2752,7 +2751,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sc/sc-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0120",
@@ -2766,7 +2765,7 @@
       "numero": "50999",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 20,
+      "votos_nominais": 91,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -2775,7 +2774,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sc/sc-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0121",
@@ -2789,7 +2788,7 @@
       "numero": "80000",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 15,
+      "votos_nominais": 326,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -2798,7 +2797,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ba/ba-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0122",
@@ -2812,7 +2811,7 @@
       "numero": "13813",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 1258,
+      "votos_nominais": 3995,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -2821,7 +2820,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pr/pr-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0123",
@@ -2835,7 +2834,7 @@
       "numero": "40124",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 26,
+      "votos_nominais": 269,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -2844,7 +2843,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ba/ba-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0124",
@@ -2858,7 +2857,7 @@
       "numero": "50180",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 14,
+      "votos_nominais": 3828,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -2867,7 +2866,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0125",
@@ -2881,7 +2880,7 @@
       "numero": "50000",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 158,
+      "votos_nominais": 977,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -2890,7 +2889,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/mg/mg-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0126",
@@ -2904,7 +2903,7 @@
       "numero": "50180",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 1185,
+      "votos_nominais": 5580,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -2913,7 +2912,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sc/sc-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0127",
@@ -2927,7 +2926,7 @@
       "numero": "50777",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 5,
+      "votos_nominais": 321,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -2936,7 +2935,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/mg/mg-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0128",
@@ -2950,7 +2949,7 @@
       "numero": "13600",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 1277,
+      "votos_nominais": 10707,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -2959,7 +2958,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/mg/mg-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0129",
@@ -2973,7 +2972,7 @@
       "numero": "13019",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 1,
+      "votos_nominais": 362,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -2982,7 +2981,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0130",
@@ -2996,7 +2995,7 @@
       "numero": "43444",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 2,
+      "votos_nominais": 189,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -3005,7 +3004,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/es/es-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0131",
@@ -3019,7 +3018,7 @@
       "numero": "50007",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 2,
+      "votos_nominais": 30,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -3028,7 +3027,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sc/sc-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0132",
@@ -3042,7 +3041,7 @@
       "numero": "50000",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 102,
+      "votos_nominais": 49571,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -3051,7 +3050,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0133",
@@ -3065,7 +3064,7 @@
       "numero": "50500",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 3725,
+      "votos_nominais": 19638,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -3074,7 +3073,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sc/sc-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0134",
@@ -3088,7 +3087,7 @@
       "numero": "13778",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 15,
+      "votos_nominais": 487,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -3097,7 +3096,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rs/rs-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0135",
@@ -3111,7 +3110,7 @@
       "numero": "50111",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 1907,
+      "votos_nominais": 11130,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -3120,7 +3119,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/mg/mg-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0136",
@@ -3134,7 +3133,7 @@
       "numero": "12100",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 33,
+      "votos_nominais": 152,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -3143,7 +3142,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pr/pr-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0137",
@@ -3157,7 +3156,7 @@
       "numero": "50180",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 93,
+      "votos_nominais": 893,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -3166,7 +3165,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/mg/mg-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0138",
@@ -3180,7 +3179,7 @@
       "numero": "18500",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 1,
+      "votos_nominais": 123,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -3189,7 +3188,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ap/ap-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0139",
@@ -3203,7 +3202,7 @@
       "numero": "50999",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 344,
+      "votos_nominais": 8909,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -3212,7 +3211,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rs/rs-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0140",
@@ -3226,7 +3225,7 @@
       "numero": "40192",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 2,
+      "votos_nominais": 32,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -3235,7 +3234,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/mg/mg-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0141",
@@ -3249,8 +3248,8 @@
       "numero": "40209",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 0,
-      "pct_votos_validos": 0,
+      "votos_nominais": 5,
+      "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
       "pct_secoes_totalizadas": null,
@@ -3258,7 +3257,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0142",
@@ -3272,7 +3271,7 @@
       "numero": "50050",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 3,
+      "votos_nominais": 411,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -3281,7 +3280,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ce/ce-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0143",
@@ -3295,7 +3294,7 @@
       "numero": "18111",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 12,
+      "votos_nominais": 365,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -3304,7 +3303,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/es/es-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0144",
@@ -3318,7 +3317,7 @@
       "numero": "50100",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 1,
+      "votos_nominais": 42,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -3327,7 +3326,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/go/go-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0145",
@@ -3341,7 +3340,7 @@
       "numero": "13300",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 11,
+      "votos_nominais": 615,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -3350,7 +3349,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rs/rs-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0146",
@@ -3364,7 +3363,7 @@
       "numero": "70999",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 2,
+      "votos_nominais": 31,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -3373,7 +3372,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/mg/mg-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0147",
@@ -3387,7 +3386,7 @@
       "numero": "13613",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 492,
+      "votos_nominais": 2084,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -3396,7 +3395,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pa/pa-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0148",
@@ -3410,8 +3409,8 @@
       "numero": "50111",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 0,
-      "pct_votos_validos": 0,
+      "votos_nominais": 98,
+      "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
       "pct_secoes_totalizadas": null,
@@ -3419,7 +3418,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0149",
@@ -3433,7 +3432,7 @@
       "numero": "40321",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 1,
+      "votos_nominais": 821,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -3442,7 +3441,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0150",
@@ -3456,7 +3455,7 @@
       "numero": "13031",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 36,
+      "votos_nominais": 886,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -3465,7 +3464,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ms/ms-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0151",
@@ -3479,7 +3478,7 @@
       "numero": "13067",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 211,
+      "votos_nominais": 2995,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -3488,7 +3487,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ms/ms-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0152",
@@ -3502,7 +3501,7 @@
       "numero": "13024",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 6,
+      "votos_nominais": 131,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -3511,7 +3510,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ma/ma-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0153",
@@ -3525,7 +3524,7 @@
       "numero": "13013",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 1,
+      "votos_nominais": 3613,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -3534,7 +3533,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0154",
@@ -3548,7 +3547,7 @@
       "numero": "13133",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 159,
+      "votos_nominais": 21154,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -3557,7 +3556,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/es/es-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0155",
@@ -3571,7 +3570,7 @@
       "numero": "50777",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 18,
+      "votos_nominais": 83,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -3580,7 +3579,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/am/am-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0156",
@@ -3594,7 +3593,7 @@
       "numero": "50321",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 1,
+      "votos_nominais": 58,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -3603,7 +3602,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0157",
@@ -3617,7 +3616,7 @@
       "numero": "13900",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 5,
+      "votos_nominais": 2734,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -3626,7 +3625,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0158",
@@ -3649,7 +3648,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": null,
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0159",
@@ -3663,8 +3662,8 @@
       "numero": "15030",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 0,
-      "pct_votos_validos": 0,
+      "votos_nominais": 7,
+      "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
       "pct_secoes_totalizadas": null,
@@ -3672,7 +3671,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ba/ba-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0160",
@@ -3686,7 +3685,7 @@
       "numero": "50789",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 1,
+      "votos_nominais": 16,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -3695,7 +3694,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sc/sc-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0161",
@@ -3709,7 +3708,7 @@
       "numero": "50888",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 22,
+      "votos_nominais": 1539,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -3718,7 +3717,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/es/es-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0162",
@@ -3732,7 +3731,7 @@
       "numero": "65123",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 152,
+      "votos_nominais": 970,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -3741,7 +3740,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/mt/mt-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0163",
@@ -3755,7 +3754,7 @@
       "numero": "50300",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 17,
+      "votos_nominais": 7829,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -3764,7 +3763,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0164",
@@ -3778,7 +3777,7 @@
       "numero": "13003",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 868,
+      "votos_nominais": 2394,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -3787,7 +3786,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pr/pr-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0165",
@@ -3801,8 +3800,8 @@
       "numero": "13169",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 0,
-      "pct_votos_validos": 0,
+      "votos_nominais": 198,
+      "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
       "pct_secoes_totalizadas": null,
@@ -3810,7 +3809,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0166",
@@ -3824,7 +3823,7 @@
       "numero": "13900",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 85,
+      "votos_nominais": 3259,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -3833,7 +3832,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pi/pi-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0167",
@@ -3847,7 +3846,7 @@
       "numero": "65789",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 32,
+      "votos_nominais": 522,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -3856,7 +3855,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ba/ba-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0168",
@@ -3870,8 +3869,8 @@
       "numero": "70544",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 0,
-      "pct_votos_validos": 0,
+      "votos_nominais": 6,
+      "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
       "pct_secoes_totalizadas": null,
@@ -3879,7 +3878,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0169",
@@ -3893,8 +3892,8 @@
       "numero": "40411",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 0,
-      "pct_votos_validos": 0,
+      "votos_nominais": 81,
+      "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
       "pct_secoes_totalizadas": null,
@@ -3902,7 +3901,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/es/es-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0170",
@@ -3916,7 +3915,7 @@
       "numero": "13033",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 1344,
+      "votos_nominais": 24872,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -3925,7 +3924,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ba/ba-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0171",
@@ -3939,7 +3938,7 @@
       "numero": "13456",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 34,
+      "votos_nominais": 25579,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -3948,7 +3947,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0172",
@@ -3962,7 +3961,7 @@
       "numero": "10103",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 4,
+      "votos_nominais": 51,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -3971,7 +3970,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pe/pe-c0007-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0173",
@@ -3985,7 +3984,7 @@
       "numero": "80",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 2403,
+      "votos_nominais": 10515,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -3994,7 +3993,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pr/pr-c0003-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0174",
@@ -4008,7 +4007,7 @@
       "numero": "80",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 69,
+      "votos_nominais": 2727,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -4017,7 +4016,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rs/rs-c0003-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0175",
@@ -4031,7 +4030,7 @@
       "numero": "80123",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 78,
+      "votos_nominais": 252,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -4040,7 +4039,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/df/df-c0008-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0176",
@@ -4054,7 +4053,7 @@
       "numero": "13012",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 463,
+      "votos_nominais": 1620,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -4063,7 +4062,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/df/df-c0008-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0177",
@@ -4077,7 +4076,7 @@
       "numero": "50020",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 271,
+      "votos_nominais": 1108,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -4086,7 +4085,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/df/df-c0008-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0178",
@@ -4100,7 +4099,7 @@
       "numero": "70789",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 141,
+      "votos_nominais": 564,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -4109,7 +4108,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/df/df-c0008-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0179",
@@ -4123,7 +4122,7 @@
       "numero": "40109",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 471,
+      "votos_nominais": 1560,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -4132,7 +4131,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/df/df-c0008-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0180",
@@ -4146,7 +4145,7 @@
       "numero": "40044",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 10,
+      "votos_nominais": 39,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -4155,7 +4154,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/df/df-c0008-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0181",
@@ -4169,7 +4168,7 @@
       "numero": "50200",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 320,
+      "votos_nominais": 1216,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -4178,7 +4177,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/df/df-c0008-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0182",
@@ -4192,7 +4191,7 @@
       "numero": "12321",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 114,
+      "votos_nominais": 395,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -4201,7 +4200,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/df/df-c0008-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0183",
@@ -4215,7 +4214,7 @@
       "numero": "50700",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 931,
+      "votos_nominais": 3154,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -4224,7 +4223,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/df/df-c0008-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0184",
@@ -4238,7 +4237,7 @@
       "numero": "40120",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 57,
+      "votos_nominais": 394,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -4247,7 +4246,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/df/df-c0008-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0185",
@@ -4261,7 +4260,7 @@
       "numero": "18081",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 54,
+      "votos_nominais": 185,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -4270,7 +4269,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/df/df-c0008-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0186",
@@ -4284,7 +4283,7 @@
       "numero": "13056",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 188,
+      "votos_nominais": 576,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -4293,7 +4292,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/df/df-c0008-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0187",
@@ -4307,7 +4306,7 @@
       "numero": "50000",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 810,
+      "votos_nominais": 3056,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -4316,7 +4315,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/df/df-c0008-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0188",
@@ -4330,7 +4329,7 @@
       "numero": "50123",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 10508,
+      "votos_nominais": 37135,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -4339,7 +4338,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/df/df-c0008-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0189",
@@ -4353,7 +4352,7 @@
       "numero": "3066",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 5,
+      "votos_nominais": 627,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -4362,7 +4361,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0190",
@@ -4376,7 +4375,7 @@
       "numero": "5024",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 6,
+      "votos_nominais": 222,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -4385,7 +4384,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sc/sc-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0191",
@@ -4399,7 +4398,7 @@
       "numero": "5077",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 162,
+      "votos_nominais": 8864,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -4408,7 +4407,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ce/ce-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0192",
@@ -4422,7 +4421,7 @@
       "numero": "5015",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 43,
+      "votos_nominais": 182,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -4431,7 +4430,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pr/pr-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0193",
@@ -4445,7 +4444,7 @@
       "numero": "5005",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 441,
+      "votos_nominais": 2049,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -4454,7 +4453,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sc/sc-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0194",
@@ -4477,7 +4476,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": null,
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0195",
@@ -4491,7 +4490,7 @@
       "numero": "1350",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 9,
+      "votos_nominais": 2686,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -4500,7 +4499,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0196",
@@ -4514,7 +4513,7 @@
       "numero": "4001",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 24,
+      "votos_nominais": 1321,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -4523,7 +4522,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/es/es-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0197",
@@ -4537,7 +4536,7 @@
       "numero": "5077",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 4,
+      "votos_nominais": 193,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -4546,7 +4545,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pi/pi-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0198",
@@ -4560,7 +4559,7 @@
       "numero": "8000",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 3,
+      "votos_nominais": 122,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -4569,7 +4568,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pi/pi-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0199",
@@ -4583,7 +4582,7 @@
       "numero": "1331",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 1541,
+      "votos_nominais": 27724,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -4592,7 +4591,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ba/ba-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0200",
@@ -4606,7 +4605,7 @@
       "numero": "1600",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 56,
+      "votos_nominais": 163,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -4615,7 +4614,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pa/pa-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0201",
@@ -4629,7 +4628,7 @@
       "numero": "5024",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 5,
+      "votos_nominais": 448,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -4638,7 +4637,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/go/go-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0202",
@@ -4661,7 +4660,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": null,
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0203",
@@ -4675,7 +4674,7 @@
       "numero": "4513",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 7,
+      "votos_nominais": 269,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -4684,7 +4683,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rs/rs-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0204",
@@ -4698,7 +4697,7 @@
       "numero": "5050",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 629,
+      "votos_nominais": 3952,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -4707,7 +4706,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/am/am-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0205",
@@ -4721,8 +4720,8 @@
       "numero": "1822",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 0,
-      "pct_votos_validos": 0,
+      "votos_nominais": 26,
+      "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
       "pct_secoes_totalizadas": null,
@@ -4730,7 +4729,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0206",
@@ -4744,7 +4743,7 @@
       "numero": "5540",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 3,
+      "votos_nominais": 284,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -4753,7 +4752,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0207",
@@ -4767,7 +4766,7 @@
       "numero": "4343",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 1132,
+      "votos_nominais": 24068,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -4776,7 +4775,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rn/rn-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0208",
@@ -4790,7 +4789,7 @@
       "numero": "5001",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 295,
+      "votos_nominais": 1143,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -4799,7 +4798,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/df/df-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0209",
@@ -4813,7 +4812,7 @@
       "numero": "1349",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 7,
+      "votos_nominais": 388,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -4822,7 +4821,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sc/sc-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0210",
@@ -4836,7 +4835,7 @@
       "numero": "1336",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 140,
+      "votos_nominais": 497,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -4845,7 +4844,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pa/pa-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0211",
@@ -4859,7 +4858,7 @@
       "numero": "5005",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 17,
+      "votos_nominais": 199,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -4868,7 +4867,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pe/pe-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0212",
@@ -4882,7 +4881,7 @@
       "numero": "5010",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 8,
+      "votos_nominais": 284,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -4891,7 +4890,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ba/ba-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0213",
@@ -4905,7 +4904,7 @@
       "numero": "5055",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 145,
+      "votos_nominais": 1042,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -4914,7 +4913,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/am/am-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0214",
@@ -4928,8 +4927,8 @@
       "numero": "5016",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 0,
-      "pct_votos_validos": 0,
+      "votos_nominais": 263,
+      "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
       "pct_secoes_totalizadas": null,
@@ -4937,7 +4936,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0215",
@@ -4951,7 +4950,7 @@
       "numero": "1223",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 71,
+      "votos_nominais": 2743,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -4960,7 +4959,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rs/rs-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0216",
@@ -4974,7 +4973,7 @@
       "numero": "2006",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 19,
+      "votos_nominais": 1398,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -4983,7 +4982,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rs/rs-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0217",
@@ -4997,7 +4996,7 @@
       "numero": "1330",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 1809,
+      "votos_nominais": 9829,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -5006,7 +5005,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/mt/mt-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0218",
@@ -5020,8 +5019,8 @@
       "numero": "5013",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 0,
-      "pct_votos_validos": 0,
+      "votos_nominais": 33,
+      "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
       "pct_secoes_totalizadas": null,
@@ -5029,7 +5028,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ap/ap-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0219",
@@ -5043,7 +5042,7 @@
       "numero": "1600",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 3,
+      "votos_nominais": 671,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -5052,7 +5051,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0220",
@@ -5066,7 +5065,7 @@
       "numero": "1324",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 832,
+      "votos_nominais": 2775,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -5075,7 +5074,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pr/pr-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0221",
@@ -5089,8 +5088,8 @@
       "numero": "1472",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 0,
-      "pct_votos_validos": 0,
+      "votos_nominais": 84,
+      "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
       "pct_secoes_totalizadas": null,
@@ -5098,7 +5097,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/go/go-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0222",
@@ -5112,7 +5111,7 @@
       "numero": "4343",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 126,
+      "votos_nominais": 575,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -5121,7 +5120,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pa/pa-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0223",
@@ -5135,7 +5134,7 @@
       "numero": "1334",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 1471,
+      "votos_nominais": 18526,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -5144,7 +5143,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/mg/mg-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0224",
@@ -5158,7 +5157,7 @@
       "numero": "1303",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 86,
+      "votos_nominais": 488,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -5167,7 +5166,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sc/sc-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0225",
@@ -5181,7 +5180,7 @@
       "numero": "6565",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 4881,
+      "votos_nominais": 34083,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -5190,7 +5189,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sc/sc-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0226",
@@ -5204,7 +5203,7 @@
       "numero": "1323",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 14,
+      "votos_nominais": 822,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -5213,7 +5212,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/es/es-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0227",
@@ -5227,7 +5226,7 @@
       "numero": "1414",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 35,
+      "votos_nominais": 2184,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -5236,7 +5235,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ce/ce-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0228",
@@ -5250,7 +5249,7 @@
       "numero": "1377",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 2020,
+      "votos_nominais": 7471,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -5259,7 +5258,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/to/to-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0229",
@@ -5273,7 +5272,7 @@
       "numero": "8000",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 1,
+      "votos_nominais": 85,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -5282,7 +5281,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/go/go-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0230",
@@ -5296,7 +5295,7 @@
       "numero": "1232",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 5,
+      "votos_nominais": 195,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -5305,7 +5304,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ba/ba-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0231",
@@ -5319,8 +5318,8 @@
       "numero": "5066",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 0,
-      "pct_votos_validos": 0,
+      "votos_nominais": 2,
+      "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
       "pct_secoes_totalizadas": null,
@@ -5328,7 +5327,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rr/rr-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0232",
@@ -5342,7 +5341,7 @@
       "numero": "1361",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 8810,
+      "votos_nominais": 32556,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -5351,7 +5350,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/df/df-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0233",
@@ -5365,7 +5364,7 @@
       "numero": "5080",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 122,
+      "votos_nominais": 954,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -5374,7 +5373,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sc/sc-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0234",
@@ -5388,7 +5387,7 @@
       "numero": "1375",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 1,
+      "votos_nominais": 54,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -5397,7 +5396,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0235",
@@ -5411,7 +5410,7 @@
       "numero": "7007",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 8,
+      "votos_nominais": 28,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -5420,7 +5419,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sc/sc-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0236",
@@ -5434,7 +5433,7 @@
       "numero": "1500",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 10,
+      "votos_nominais": 74,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -5443,7 +5442,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rr/rr-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0237",
@@ -5457,7 +5456,7 @@
       "numero": "1303",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 2345,
+      "votos_nominais": 18635,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -5466,7 +5465,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pb/pb-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0238",
@@ -5480,7 +5479,7 @@
       "numero": "4054",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 1,
+      "votos_nominais": 247,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -5489,7 +5488,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0239",
@@ -5503,7 +5502,7 @@
       "numero": "1331",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 69,
+      "votos_nominais": 2560,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -5512,7 +5511,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rs/rs-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0240",
@@ -5526,7 +5525,7 @@
       "numero": "1330",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 53,
+      "votos_nominais": 519,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -5535,7 +5534,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/mg/mg-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0241",
@@ -5549,7 +5548,7 @@
       "numero": "1600",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 25,
+      "votos_nominais": 116,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -5558,7 +5557,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/am/am-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0242",
@@ -5572,7 +5571,7 @@
       "numero": "2323",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 4,
+      "votos_nominais": 297,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -5581,7 +5580,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rr/rr-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0243",
@@ -5595,7 +5594,7 @@
       "numero": "1377",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 19,
+      "votos_nominais": 5081,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -5604,7 +5603,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0244",
@@ -5618,7 +5617,7 @@
       "numero": "1822",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 23,
+      "votos_nominais": 131,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -5627,7 +5626,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pr/pr-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0245",
@@ -5641,7 +5640,7 @@
       "numero": "5077",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 2,
+      "votos_nominais": 172,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -5650,7 +5649,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ba/ba-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0246",
@@ -5664,7 +5663,7 @@
       "numero": "5050",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 11,
+      "votos_nominais": 2643,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -5673,7 +5672,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/es/es-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0247",
@@ -5687,8 +5686,8 @@
       "numero": "4509",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 0,
-      "pct_votos_validos": 0,
+      "votos_nominais": 12,
+      "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
       "pct_secoes_totalizadas": null,
@@ -5696,7 +5695,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0248",
@@ -5710,8 +5709,8 @@
       "numero": "1410",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 0,
-      "pct_votos_validos": 0,
+      "votos_nominais": 32,
+      "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
       "pct_secoes_totalizadas": null,
@@ -5719,7 +5718,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pe/pe-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0249",
@@ -5733,7 +5732,7 @@
       "numero": "5070",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 710,
+      "votos_nominais": 262950,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -5742,7 +5741,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0250",
@@ -5756,7 +5755,7 @@
       "numero": "6565",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 11,
+      "votos_nominais": 478,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -5765,7 +5764,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pe/pe-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0251",
@@ -5779,7 +5778,7 @@
       "numero": "5005",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 13,
+      "votos_nominais": 372,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -5788,7 +5787,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rs/rs-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0252",
@@ -5802,7 +5801,7 @@
       "numero": "1221",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 14,
+      "votos_nominais": 313,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -5811,7 +5810,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ms/ms-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0253",
@@ -5825,7 +5824,7 @@
       "numero": "5001",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 64,
+      "votos_nominais": 2523,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -5834,7 +5833,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rs/rs-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0254",
@@ -5848,8 +5847,8 @@
       "numero": "5055",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 0,
-      "pct_votos_validos": 0,
+      "votos_nominais": 75,
+      "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
       "pct_secoes_totalizadas": null,
@@ -5857,7 +5856,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/go/go-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0255",
@@ -5871,8 +5870,8 @@
       "numero": "7054",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 0,
-      "pct_votos_validos": 0,
+      "votos_nominais": 84,
+      "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
       "pct_secoes_totalizadas": null,
@@ -5880,7 +5879,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0256",
@@ -5894,7 +5893,7 @@
       "numero": "1303",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 1,
+      "votos_nominais": 505,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -5903,7 +5902,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0257",
@@ -5917,7 +5916,7 @@
       "numero": "5037",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 9,
+      "votos_nominais": 61,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -5926,7 +5925,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/mg/mg-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0258",
@@ -5940,7 +5939,7 @@
       "numero": "1399",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 5,
+      "votos_nominais": 621,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -5949,7 +5948,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/go/go-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0259",
@@ -5972,7 +5971,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": null,
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0260",
@@ -5986,7 +5985,7 @@
       "numero": "5050",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 17342,
+      "votos_nominais": 102082,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -5995,7 +5994,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/mg/mg-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0261",
@@ -6009,7 +6008,7 @@
       "numero": "1330",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 87,
+      "votos_nominais": 13567,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -6018,7 +6017,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0262",
@@ -6032,8 +6031,8 @@
       "numero": "1282",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 0,
-      "pct_votos_validos": 0,
+      "votos_nominais": 4,
+      "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
       "pct_secoes_totalizadas": null,
@@ -6041,7 +6040,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0263",
@@ -6055,7 +6054,7 @@
       "numero": "1213",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 5,
+      "votos_nominais": 843,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -6064,7 +6063,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0264",
@@ -6078,7 +6077,7 @@
       "numero": "1124",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 16,
+      "votos_nominais": 175,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -6087,7 +6086,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/mg/mg-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0265",
@@ -6101,7 +6100,7 @@
       "numero": "4074",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 8,
+      "votos_nominais": 328,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -6110,7 +6109,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ba/ba-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0266",
@@ -6124,8 +6123,8 @@
       "numero": "5015",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 0,
-      "pct_votos_validos": 0,
+      "votos_nominais": 34,
+      "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
       "pct_secoes_totalizadas": null,
@@ -6133,7 +6132,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/go/go-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0267",
@@ -6147,7 +6146,7 @@
       "numero": "5005",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 1,
+      "votos_nominais": 108,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -6156,7 +6155,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/go/go-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0268",
@@ -6170,7 +6169,7 @@
       "numero": "7013",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 27,
+      "votos_nominais": 171,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -6179,7 +6178,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sc/sc-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0269",
@@ -6193,7 +6192,7 @@
       "numero": "5070",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 79,
+      "votos_nominais": 2770,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -6202,7 +6201,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rs/rs-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0270",
@@ -6216,7 +6215,7 @@
       "numero": "5005",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 688,
+      "votos_nominais": 2658,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -6225,7 +6224,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pr/pr-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0271",
@@ -6239,7 +6238,7 @@
       "numero": "1524",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 4,
+      "votos_nominais": 146,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -6248,7 +6247,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ma/ma-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0272",
@@ -6262,7 +6261,7 @@
       "numero": "5077",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 131,
+      "votos_nominais": 745,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -6271,7 +6270,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sc/sc-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0273",
@@ -6285,7 +6284,7 @@
       "numero": "6565",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 990,
+      "votos_nominais": 49333,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -6294,7 +6293,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rs/rs-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0274",
@@ -6308,7 +6307,7 @@
       "numero": "5005",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 224,
+      "votos_nominais": 51301,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -6317,7 +6316,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0275",
@@ -6331,7 +6330,7 @@
       "numero": "2282",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 4,
+      "votos_nominais": 61,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -6340,7 +6339,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ba/ba-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0276",
@@ -6354,7 +6353,7 @@
       "numero": "1213",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 24,
+      "votos_nominais": 1064,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -6363,7 +6362,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rs/rs-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0277",
@@ -6377,8 +6376,8 @@
       "numero": "5098",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 0,
-      "pct_votos_validos": 0,
+      "votos_nominais": 6,
+      "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
       "pct_secoes_totalizadas": null,
@@ -6386,7 +6385,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rn/rn-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0278",
@@ -6400,7 +6399,7 @@
       "numero": "5024",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 1,
+      "votos_nominais": 30,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -6409,7 +6408,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ce/ce-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0279",
@@ -6423,7 +6422,7 @@
       "numero": "1300",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 13,
+      "votos_nominais": 2909,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -6432,7 +6431,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0280",
@@ -6446,7 +6445,7 @@
       "numero": "5020",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 23,
+      "votos_nominais": 153,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -6455,7 +6454,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/mg/mg-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0281",
@@ -6469,7 +6468,7 @@
       "numero": "1313",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 260,
+      "votos_nominais": 6325,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -6478,7 +6477,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rn/rn-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0282",
@@ -6492,8 +6491,8 @@
       "numero": "8000",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 0,
-      "pct_votos_validos": 0,
+      "votos_nominais": 118,
+      "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
       "pct_secoes_totalizadas": null,
@@ -6501,7 +6500,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/es/es-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0283",
@@ -6515,7 +6514,7 @@
       "numero": "6565",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 755,
+      "votos_nominais": 4413,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -6524,7 +6523,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/am/am-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0284",
@@ -6538,7 +6537,7 @@
       "numero": "5033",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 4,
+      "votos_nominais": 293,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -6547,7 +6546,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rs/rs-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0285",
@@ -6561,7 +6560,7 @@
       "numero": "1570",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 186,
+      "votos_nominais": 570,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -6570,7 +6569,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pr/pr-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0286",
@@ -6584,7 +6583,7 @@
       "numero": "8000",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 323,
+      "votos_nominais": 1317,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -6593,7 +6592,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pr/pr-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0287",
@@ -6607,7 +6606,7 @@
       "numero": "5008",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 31,
+      "votos_nominais": 483,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -6616,7 +6615,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sc/sc-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0288",
@@ -6630,7 +6629,7 @@
       "numero": "4010",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 435,
+      "votos_nominais": 1349,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -6639,7 +6638,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pr/pr-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0289",
@@ -6653,7 +6652,7 @@
       "numero": "1233",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 134,
+      "votos_nominais": 3301,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -6662,7 +6661,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rs/rs-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0290",
@@ -6676,7 +6675,7 @@
       "numero": "4040",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 70,
+      "votos_nominais": 272,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -6685,7 +6684,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ro/ro-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0291",
@@ -6699,7 +6698,7 @@
       "numero": "1324",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 501,
+      "votos_nominais": 4471,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -6708,7 +6707,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pa/pa-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0292",
@@ -6722,8 +6721,8 @@
       "numero": "7720",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 0,
-      "pct_votos_validos": 0,
+      "votos_nominais": 15,
+      "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
       "pct_secoes_totalizadas": null,
@@ -6731,7 +6730,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/mg/mg-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0293",
@@ -6745,7 +6744,7 @@
       "numero": "1230",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 851,
+      "votos_nominais": 2943,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -6754,7 +6753,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/df/df-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0294",
@@ -6768,7 +6767,7 @@
       "numero": "5070",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 256,
+      "votos_nominais": 910,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -6777,7 +6776,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pa/pa-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0295",
@@ -6791,7 +6790,7 @@
       "numero": "1800",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 30,
+      "votos_nominais": 1827,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -6800,7 +6799,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ce/ce-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0296",
@@ -6814,7 +6813,7 @@
       "numero": "1303",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 876,
+      "votos_nominais": 33040,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -6823,7 +6822,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pe/pe-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0297",
@@ -6837,7 +6836,7 @@
       "numero": "1344",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 9817,
+      "votos_nominais": 44744,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -6846,7 +6845,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sc/sc-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0298",
@@ -6860,7 +6859,7 @@
       "numero": "8000",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 65,
+      "votos_nominais": 257,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -6869,7 +6868,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pa/pa-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0299",
@@ -6883,7 +6882,7 @@
       "numero": "5015",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 6,
+      "votos_nominais": 260,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -6892,7 +6891,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rs/rs-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0300",
@@ -6906,7 +6905,7 @@
       "numero": "5070",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 40,
+      "votos_nominais": 317,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -6915,7 +6914,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/mt/mt-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0301",
@@ -6929,7 +6928,7 @@
       "numero": "1269",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 8,
+      "votos_nominais": 61,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -6938,7 +6937,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/mg/mg-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0302",
@@ -6952,7 +6951,7 @@
       "numero": "5000",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 21,
+      "votos_nominais": 1121,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -6961,7 +6960,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ce/ce-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0303",
@@ -6975,7 +6974,7 @@
       "numero": "5013",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 47,
+      "votos_nominais": 258,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -6984,7 +6983,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/am/am-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0304",
@@ -6998,7 +6997,7 @@
       "numero": "1367",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 24,
+      "votos_nominais": 608,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -7007,7 +7006,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ma/ma-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0305",
@@ -7021,8 +7020,8 @@
       "numero": "5001",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 0,
-      "pct_votos_validos": 0,
+      "votos_nominais": 60,
+      "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
       "pct_secoes_totalizadas": null,
@@ -7030,7 +7029,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pe/pe-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0306",
@@ -7044,7 +7043,7 @@
       "numero": "5075",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 143,
+      "votos_nominais": 731,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -7053,7 +7052,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sc/sc-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0307",
@@ -7067,7 +7066,7 @@
       "numero": "5042",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 1,
+      "votos_nominais": 330,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -7076,7 +7075,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0308",
@@ -7090,7 +7089,7 @@
       "numero": "5024",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 2,
+      "votos_nominais": 271,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -7099,7 +7098,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pe/pe-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0309",
@@ -7113,8 +7112,8 @@
       "numero": "8080",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 0,
-      "pct_votos_validos": 0,
+      "votos_nominais": 105,
+      "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
       "pct_secoes_totalizadas": null,
@@ -7122,7 +7121,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pe/pe-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0310",
@@ -7136,7 +7135,7 @@
       "numero": "5504",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 38,
+      "votos_nominais": 845,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -7145,7 +7144,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sc/sc-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0311",
@@ -7159,7 +7158,7 @@
       "numero": "5044",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 39,
+      "votos_nominais": 284,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -7168,7 +7167,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/mg/mg-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0312",
@@ -7182,7 +7181,7 @@
       "numero": "5050",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 56304,
+      "votos_nominais": 202946,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -7191,7 +7190,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/df/df-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0313",
@@ -7205,7 +7204,7 @@
       "numero": "5080",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 9,
+      "votos_nominais": 243,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -7214,7 +7213,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ba/ba-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0314",
@@ -7228,7 +7227,7 @@
       "numero": "7052",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 119,
+      "votos_nominais": 400,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -7237,7 +7236,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/df/df-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0315",
@@ -7251,7 +7250,7 @@
       "numero": "1350",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 10,
+      "votos_nominais": 2932,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -7260,7 +7259,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0316",
@@ -7274,7 +7273,7 @@
       "numero": "5050",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 16594,
+      "votos_nominais": 54290,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -7283,7 +7282,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pa/pa-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0317",
@@ -7297,7 +7296,7 @@
       "numero": "8080",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 3,
+      "votos_nominais": 519,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -7306,7 +7305,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ce/ce-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0318",
@@ -7320,7 +7319,7 @@
       "numero": "1390",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 7696,
+      "votos_nominais": 43812,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -7329,7 +7328,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/mg/mg-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0319",
@@ -7343,7 +7342,7 @@
       "numero": "8080",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 5,
+      "votos_nominais": 406,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -7352,7 +7351,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/es/es-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0320",
@@ -7366,7 +7365,7 @@
       "numero": "8080",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 224,
+      "votos_nominais": 838,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -7375,7 +7374,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pa/pa-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0321",
@@ -7389,7 +7388,7 @@
       "numero": "5044",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 94,
+      "votos_nominais": 13716,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -7398,7 +7397,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0322",
@@ -7412,7 +7411,7 @@
       "numero": "1211",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 134,
+      "votos_nominais": 752,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -7421,7 +7420,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pr/pr-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0323",
@@ -7435,7 +7434,7 @@
       "numero": "8080",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 1,
+      "votos_nominais": 492,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -7444,7 +7443,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0324",
@@ -7458,7 +7457,7 @@
       "numero": "5050",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 76,
+      "votos_nominais": 231,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -7467,7 +7466,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ro/ro-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0325",
@@ -7481,7 +7480,7 @@
       "numero": "4004",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 1987,
+      "votos_nominais": 6813,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -7490,7 +7489,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/df/df-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0326",
@@ -7504,8 +7503,8 @@
       "numero": "1800",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 0,
-      "pct_votos_validos": 0,
+      "votos_nominais": 37,
+      "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
       "pct_secoes_totalizadas": null,
@@ -7513,7 +7512,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pe/pe-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0327",
@@ -7527,7 +7526,7 @@
       "numero": "1020",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 22,
+      "votos_nominais": 373,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -7536,7 +7535,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ac/ac-c0006-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0328",
@@ -7550,7 +7549,7 @@
       "numero": "800",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 1922,
+      "votos_nominais": 7555,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -7559,7 +7558,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pa/pa-c0005-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0329",
@@ -7573,7 +7572,7 @@
       "numero": "133",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 3589,
+      "votos_nominais": 342711,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -7582,7 +7581,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/es/es-c0005-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0330",
@@ -7596,7 +7595,7 @@
       "numero": "500",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 1212,
+      "votos_nominais": 180098,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -7605,7 +7604,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj-c0005-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0331",
@@ -7619,7 +7618,7 @@
       "numero": "180",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 5131,
+      "votos_nominais": 1480549,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -7628,7 +7627,7 @@
       "chapa_titular": "MARINA SILVA",
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0005-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0332",
@@ -7642,7 +7641,7 @@
       "numero": "16",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 26,
+      "votos_nominais": 14174,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -7651,7 +7650,7 @@
       "chapa_titular": "VERA LÚCIA",
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0003-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0333",
@@ -7665,7 +7664,7 @@
       "numero": "80",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 866,
+      "votos_nominais": 3317,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -7674,7 +7673,7 @@
       "chapa_titular": "GAL LEITE",
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pa/pa-c0003-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0334",
@@ -7688,7 +7687,7 @@
       "numero": "80",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 944,
+      "votos_nominais": 3595,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -7697,7 +7696,7 @@
       "chapa_titular": "PROFESSORA SAMARA MINEIRO",
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/df/df-c0003-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0335",
@@ -7711,7 +7710,7 @@
       "numero": "16",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 300,
+      "votos_nominais": 1815,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -7720,7 +7719,7 @@
       "chapa_titular": "GILBERTO VASCONCELOS",
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/am/am-c0003-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0336",
@@ -7734,7 +7733,7 @@
       "numero": "18",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 1212,
+      "votos_nominais": 6886,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -7743,7 +7742,7 @@
       "chapa_titular": "ISAEL MUNDURUKU",
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/am/am-c0003-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     },
     {
       "id": "dd-0337",
@@ -7757,7 +7756,7 @@
       "numero": "80",
       "federacao_coligacao": null,
       "turno": 1,
-      "votos_nominais": 69,
+      "votos_nominais": 2727,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
       "grau_certeza": "PARCIAL",
@@ -7766,7 +7765,7 @@
       "chapa_titular": "PRISCILA VOIGT",
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rs/rs-c0003-e006259-u.json",
-      "atualizado_em": "04/10/2026 17:35:24"
+      "atualizado_em": "04/10/2026 18:30:29"
     }
   ],
   "achados": [],
