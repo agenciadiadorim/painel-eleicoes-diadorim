@@ -55,3 +55,33 @@ Object.assign(painel, { gerado_em: momento, fase: 'APURACAO_1T', fonte: 'Justiç
 const temporario = new URL('./painel.json.tmp', import.meta.url);
 await writeFile(temporario, `${JSON.stringify(painel, null, 2)}\n`);
 await rename(temporario, arquivo);
+
+const webhook = process.env.SLACK_WEBHOOK_URL;
+const arquivoAlertas = new URL('./alertas-slack-enviados.json', import.meta.url);
+if (!webhook) {
+  console.log('Slack não configurado; atualização publicada sem alertas.');
+} else if (!webhook.startsWith('https://hooks.slack.com/')) {
+  console.error('Slack não configurado: URL de webhook inválida.');
+} else {
+  let enviados = [];
+  try {
+    const controle = JSON.parse(await readFile(arquivoAlertas, 'utf8'));
+    if (Array.isArray(controle.enviados)) enviados = controle.enviados;
+  } catch (erro) {
+    if (erro.code !== 'ENOENT') console.error('Não foi possível ler o histórico de alertas do Slack.', erro);
+  }
+  const idsEnviados = new Set(enviados.map(item => item.id));
+  for (const c of painel.candidaturas.filter(c => c.status === 'ELEITO' && !idsEnviados.has(c.id))) {
+    const mensagem = ['🟣 *Pessoa LGBTQIA+ eleita*', `*${c.nome_exibicao}* (${c.partido}–${c.uf}) foi marcada como eleita pela Justiça Eleitoral.`, `Cargo: ${c.cargo}`].join('\n');
+    try {
+      const resposta = await fetch(webhook, { method: 'POST', headers: { 'content-type': 'application/json' }, body: JSON.stringify({ text: mensagem }) });
+      if (!resposta.ok) throw new Error(`HTTP ${resposta.status}`);
+      enviados.push({ id: c.id, nome: c.nome_exibicao, enviado_em: momento });
+      await writeFile(arquivoAlertas, `${JSON.stringify({ versao: 1, enviados }, null, 2)}\n`);
+      idsEnviados.add(c.id);
+      console.log(`Alerta enviado: ${c.nome_exibicao}`);
+    } catch (erro) {
+      console.error(`Falha ao enviar alerta de ${c.nome_exibicao}. Será tentado novamente na próxima atualização.`, erro);
+    }
+  }
+}
