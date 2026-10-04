@@ -22,8 +22,11 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
-      - run: node atualizar-tse.mjs
+      - name: Coletar resultados oficiais e alertar eleitas
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+        run: node atualizar-tse.mjs
       - run: |
-          git add painel.json
+          git add painel.json alertas-slack-enviados.json
           git diff --cached --quiet || git -c user.name='Agência Diadorim' -c user.email='contato@adiadorim.org' commit -m 'Atualiza apuração do TSE'
           git push
