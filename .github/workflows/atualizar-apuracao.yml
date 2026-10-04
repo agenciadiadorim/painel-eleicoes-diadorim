@@ -27,6 +27,7 @@ jobs:
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
         run: node atualizar-tse.mjs
       - run: |
-          git add painel.json alertas-slack-enviados.json
+          git add painel.json
+          test ! -f alertas-slack-enviados.json || git add alertas-slack-enviados.json
           git diff --cached --quiet || git -c user.name='Agência Diadorim' -c user.email='contato@adiadorim.org' commit -m 'Atualiza apuração do TSE'
           git push
