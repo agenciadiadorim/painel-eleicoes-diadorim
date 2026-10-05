@@ -31,7 +31,7 @@
 const el=id=>document.getElementById(id),num=new Intl.NumberFormat('pt-BR');
 const esc=v=>String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#039;'}[c]));
 let ultimo=null;
-function altura(){if(parent!==window)parent.postMessage({tipo:'diadorim-eleitos-altura',altura:Math.ceil(document.documentElement.scrollHeight)},'https://adiadorim.org')}
+let ultimaAltura=0;function altura(){const quadro=el('dd26-quadro');if(!quadro)return;const h=Math.ceil(quadro.getBoundingClientRect().bottom+window.scrollY+24);if(parent!==window&&h>0&&h!==ultimaAltura){ultimaAltura=h;parent.postMessage({tipo:'diadorim-eleitos-altura',altura:h},'https://adiadorim.org')}}
 function render(d){
  const cs=d.candidaturas.filter(c=>c.status==='ELEITO'||c.na_faixa_eleicao);
  cs.sort((a,b)=>(a.status!=='ELEITO')-(b.status!=='ELEITO')||String(a.nome_exibicao).localeCompare(String(b.nome_exibicao),'pt-BR',{sensitivity:'base'}));
@@ -62,6 +62,6 @@ async function carregar(){try{
 }catch(e){el('dd26-aviso').textContent=ultimo?'Não foi possível atualizar. Exibindo a última atualização recebida; nova tentativa em um minuto.':'Não foi possível carregar os dados atuais. A lista abaixo é o retrato de 05/10/2026 às 9h50; nova tentativa em um minuto.';if(!ultimo)el('dd26-horario').textContent='Dados de 05/10/2026 às 9h50 (horário de Brasília)';altura();}}
 addEventListener('resize',altura);if(window.ResizeObserver)new ResizeObserver(altura).observe(document.body);
 if(document.fonts)document.fonts.ready.then(altura);
-carregar();setInterval(carregar,60000);
+carregar();setInterval(carregar,60000);setInterval(()=>{ultimaAltura=0;altura()},2000);
 })();
 </script></body></html>
