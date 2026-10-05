@@ -34,7 +34,7 @@ for (const { uf, codigo, j } of baixados) {
   const cargo = nomeCargo[codigo];
   const pct = Number(j.s?.pstn ?? j.s?.pst ?? 0);
   for (const agrupamento of j.carg[0].agr || []) for (const partido of agrupamento.par || []) for (const cand of partido.cand || []) {
-    const base = { status: cand.st, ea: { tf: j.tf, and: j.and, e: cand.e }, votos: Number(cand.vap || 0), percentual: Number(cand.pvapn ?? cand.pvap ?? 0), totalizacao: pct, chapa: cand.nmu || null, url: url(uf, codigo) };
+    const base = { status: cand.st, ea: { tf: j.tf, and: j.and, e: cand.e }, votos: Number(cand.vap || 0), percentual: Number(cand.pvapn ?? cand.pvap ?? 0), totalizacao: pct, chapa: cand.nmu || null, grupo: agrupamento.n, vagas_grupo: Number(agrupamento.vag || 0), url: url(uf, codigo) };
     registros.set(chave(uf.toUpperCase(), cargo, String(cand.n)), base);
     for (const membro of cand.vs || []) {
       const tipo = membro.tp === 'v' ? 'VICE' : membro.tp === 's1' ? 'SUPLENTE_SENADO' : null;
@@ -42,7 +42,18 @@ for (const { uf, codigo, j } of baixados) {
       if (tipo === 'VICE') registros.set(chave(uf.toUpperCase(), 'Vice-governador(a)', String(cand.n), tipo), base);
     }
   }
+}const grupos = new Map();
+for (const [id, registro] of registros) {
+  const [, cargo, , tipo] = id.split('|');
+  if (tipo !== 'TITULAR' || !cargo.startsWith('Deputado')) continue;
+  const grupo = id.split('|').slice(0, 2).join('|') + '|' + registro.grupo;
+  grupos.set(grupo, [...(grupos.get(grupo) || []), registro]);
 }
+for (const candidaturas of grupos.values()) {
+  const vagas = candidaturas[0].vagas_grupo;
+  candidaturas.sort((a, b) => b.votos - a.votos).slice(0, vagas).forEach(registro => registro.na_faixa_eleicao = true);
+}
+
 const ausentes = painel.candidaturas.filter(c => !registros.has(chave(c.uf, c.cargo, String(c.numero), c.tipo_participacao)));
 if (ausentes.length) console.warn(`Pareamento parcial: ${ausentes.length} candidatura(s) permanecerão em revisão.`);
 const momento = agora();
@@ -50,7 +61,7 @@ painel.candidaturas = painel.candidaturas.map(c => {
   const r = registros.get(chave(c.uf, c.cargo, String(c.numero), c.tipo_participacao));
   if (!r) return { ...c, status: 'EM_REVISAO', rotulo_status: 'Em revisão', votos_nominais: 0, pct_votos_validos: 0, pct_secoes_totalizadas: null, grau_certeza: 'PARCIAL', url_conferencia: null, atualizado_em: momento };
   const status = normalizar(r.status, c.tipo_participacao, r.ea);
-  return { ...c, status, rotulo_status: rotulo(status), votos_nominais: r.votos, pct_votos_validos: r.percentual, pct_secoes_totalizadas: r.totalizacao, grau_certeza: ['ELEITO', 'SUPLENTE', 'NAO_ELEITO', 'FORA_DA_URNA'].includes(status) ? 'CONFIRMADO' : 'PARCIAL', chapa_titular: c.tipo_participacao === 'TITULAR' ? null : r.chapa, url_conferencia: r.url, atualizado_em: momento };
+  return { ...c, status, rotulo_status: rotulo(status), na_faixa_eleicao: !['ELEITO','SUPLENTE','NAO_ELEITO','FORA_DA_URNA'].includes(status) && !!r.na_faixa_eleicao, votos_nominais: r.votos, pct_votos_validos: r.percentual, pct_secoes_totalizadas: r.totalizacao, grau_certeza: ['ELEITO', 'SUPLENTE', 'NAO_ELEITO', 'FORA_DA_URNA'].includes(status) ? 'CONFIRMADO' : 'PARCIAL', chapa_titular: c.tipo_participacao === 'TITULAR' ? null : r.chapa, url_conferencia: r.url, atualizado_em: momento };
 });
 const porStatus = Object.fromEntries([...new Set(painel.candidaturas.map(c => c.status))].map(s => [s, painel.candidaturas.filter(c => c.status === s).length]));
 Object.assign(painel, { gerado_em: momento, fase: 'APURACAO_1T', fonte: 'Justiça Eleitoral (TSE) — EA20 oficial', situacao_sistema: 'OK', ultima_atualizacao_ok: momento, ufs_indisponiveis: [], resumo: { monitoradas: painel.candidaturas.length, na_urna: painel.candidaturas.filter(c => c.status !== 'FORA_DA_URNA').length, por_status: porStatus, totalizacao_por_cargo_uf: [] } });
