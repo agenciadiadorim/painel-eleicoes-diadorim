@@ -1,17 +1,18 @@
 {
   "versao_schema": "1.0",
-  "gerado_em": "06/10/2026 11:25:12",
+  "gerado_em": "06/10/2026 11:30:17",
   "fase": "APURACAO_1T",
   "fonte": "Justiça Eleitoral (TSE) — EA20 oficial",
   "situacao_sistema": "OK",
-  "ultima_atualizacao_ok": "06/10/2026 11:25:12",
+  "ultima_atualizacao_ok": "06/10/2026 11:30:17",
   "ufs_indisponiveis": [],
   "resumo": {
     "monitoradas": 337,
     "na_urna": 337,
     "por_status": {
-      "NAO_ELEITO": 296,
-      "ELEITO": 32,
+      "NAO_ELEITO": 281,
+      "EM_APURACAO": 16,
+      "ELEITO": 31,
       "EM_REVISAO": 9
     },
     "totalizacao_por_cargo_uf": []
@@ -38,7 +39,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pr/pr-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -62,7 +63,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/al/al-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -86,7 +87,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rs/rs-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -110,7 +111,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/am/am-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -134,7 +135,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -158,7 +159,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -182,14 +183,14 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/es/es-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
       "id": "dd-0008",
       "nome_exibicao": "Matheus Drama",
-      "rotulo_status": "Não eleito(a)",
-      "status": "NAO_ELEITO",
+      "rotulo_status": "Em apuração",
+      "status": "EM_APURACAO",
       "cargo": "Deputado(a) Estadual",
       "uf": "PE",
       "regiao": "Nordeste",
@@ -200,13 +201,13 @@
       "votos_nominais": 414,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
-      "grau_certeza": "CONFIRMADO",
+      "grau_certeza": "PARCIAL",
       "pct_secoes_totalizadas": 100,
       "tipo_participacao": "TITULAR",
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pe/pe-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -230,7 +231,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/es/es-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -254,7 +255,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -278,7 +279,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pr/pr-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -302,7 +303,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ce/ce-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -326,7 +327,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/mg/mg-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -350,7 +351,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pi/pi-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -374,7 +375,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ac/ac-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -398,7 +399,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -422,7 +423,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -446,7 +447,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/mg/mg-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -470,7 +471,7 @@
       "chapa_titular": null,
       "coletiva": true,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/go/go-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -494,7 +495,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -518,7 +519,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -542,7 +543,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pr/pr-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -566,7 +567,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ba/ba-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -590,7 +591,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -614,7 +615,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sc/sc-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -638,14 +639,14 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/to/to-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
       "id": "dd-0027",
       "nome_exibicao": "Yasmim Alves",
-      "rotulo_status": "Não eleito(a)",
-      "status": "NAO_ELEITO",
+      "rotulo_status": "Em apuração",
+      "status": "EM_APURACAO",
       "cargo": "Deputado(a) Estadual",
       "uf": "PE",
       "regiao": "Nordeste",
@@ -656,13 +657,13 @@
       "votos_nominais": 38973,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
-      "grau_certeza": "CONFIRMADO",
+      "grau_certeza": "PARCIAL",
       "pct_secoes_totalizadas": 100,
       "tipo_participacao": "TITULAR",
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pe/pe-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -686,7 +687,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/es/es-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -710,7 +711,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/mg/mg-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -734,7 +735,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -758,7 +759,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -782,14 +783,14 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sc/sc-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
       "id": "dd-0033",
       "nome_exibicao": "Mari Lessa",
-      "rotulo_status": "Não eleito(a)",
-      "status": "NAO_ELEITO",
+      "rotulo_status": "Em apuração",
+      "status": "EM_APURACAO",
       "cargo": "Deputado(a) Estadual",
       "uf": "PE",
       "regiao": "Nordeste",
@@ -800,13 +801,13 @@
       "votos_nominais": 1817,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
-      "grau_certeza": "CONFIRMADO",
+      "grau_certeza": "PARCIAL",
       "pct_secoes_totalizadas": 100,
       "tipo_participacao": "TITULAR",
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pe/pe-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -830,7 +831,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -854,7 +855,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/es/es-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -878,7 +879,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ce/ce-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -902,7 +903,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sc/sc-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -926,7 +927,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pa/pa-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -950,7 +951,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -974,14 +975,14 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sc/sc-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
       "id": "dd-0041",
       "nome_exibicao": "Éliton Oliveira",
-      "rotulo_status": "Não eleito(a)",
-      "status": "NAO_ELEITO",
+      "rotulo_status": "Em apuração",
+      "status": "EM_APURACAO",
       "cargo": "Deputado(a) Estadual",
       "uf": "PE",
       "regiao": "Nordeste",
@@ -992,13 +993,13 @@
       "votos_nominais": 47,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
-      "grau_certeza": "CONFIRMADO",
+      "grau_certeza": "PARCIAL",
       "pct_secoes_totalizadas": 100,
       "tipo_participacao": "TITULAR",
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pe/pe-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -1022,7 +1023,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/go/go-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -1046,7 +1047,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pr/pr-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -1070,7 +1071,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/es/es-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -1094,7 +1095,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sc/sc-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -1118,7 +1119,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": null,
-      "atualizado_em": "06/10/2026 11:25:12"
+      "atualizado_em": "06/10/2026 11:30:17"
     },
     {
       "id": "dd-0047",
@@ -1141,7 +1142,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -1165,7 +1166,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -1189,7 +1190,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/go/go-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -1213,7 +1214,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": null,
-      "atualizado_em": "06/10/2026 11:25:12"
+      "atualizado_em": "06/10/2026 11:30:17"
     },
     {
       "id": "dd-0051",
@@ -1236,7 +1237,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pr/pr-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -1260,7 +1261,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -1284,7 +1285,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/am/am-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -1308,7 +1309,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/al/al-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -1332,7 +1333,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ms/ms-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -1356,7 +1357,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ce/ce-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -1380,7 +1381,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -1404,7 +1405,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rs/rs-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -1428,7 +1429,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pr/pr-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -1452,7 +1453,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pr/pr-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -1476,7 +1477,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -1500,7 +1501,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/mg/mg-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -1524,7 +1525,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/mg/mg-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -1548,7 +1549,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -1572,7 +1573,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -1596,7 +1597,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/es/es-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -1620,7 +1621,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -1644,7 +1645,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pr/pr-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -1668,7 +1669,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ms/ms-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -1692,7 +1693,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rs/rs-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -1716,7 +1717,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -1740,7 +1741,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/mt/mt-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -1764,7 +1765,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -1788,7 +1789,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ba/ba-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -1812,7 +1813,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/mg/mg-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -1836,7 +1837,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ce/ce-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -1860,7 +1861,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pb/pb-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -1884,7 +1885,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -1908,7 +1909,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/es/es-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -1932,7 +1933,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/go/go-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -1956,7 +1957,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -1980,7 +1981,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/mg/mg-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -2004,7 +2005,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -2028,7 +2029,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sc/sc-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -2052,7 +2053,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": null,
-      "atualizado_em": "06/10/2026 11:25:12"
+      "atualizado_em": "06/10/2026 11:30:17"
     },
     {
       "id": "dd-0086",
@@ -2075,7 +2076,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/to/to-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -2099,14 +2100,14 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ma/ma-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
       "id": "dd-0088",
       "nome_exibicao": "Eduardo Paysan",
-      "rotulo_status": "Não eleito(a)",
-      "status": "NAO_ELEITO",
+      "rotulo_status": "Em apuração",
+      "status": "EM_APURACAO",
       "cargo": "Deputado(a) Estadual",
       "uf": "PE",
       "regiao": "Nordeste",
@@ -2117,13 +2118,13 @@
       "votos_nominais": 455,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
-      "grau_certeza": "CONFIRMADO",
+      "grau_certeza": "PARCIAL",
       "pct_secoes_totalizadas": 100,
       "tipo_participacao": "TITULAR",
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pe/pe-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -2147,7 +2148,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ma/ma-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -2171,7 +2172,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": null,
-      "atualizado_em": "06/10/2026 11:25:12"
+      "atualizado_em": "06/10/2026 11:30:17"
     },
     {
       "id": "dd-0091",
@@ -2194,7 +2195,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rn/rn-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -2218,7 +2219,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -2242,7 +2243,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": null,
-      "atualizado_em": "06/10/2026 11:25:12"
+      "atualizado_em": "06/10/2026 11:30:17"
     },
     {
       "id": "dd-0094",
@@ -2265,7 +2266,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -2289,7 +2290,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ce/ce-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -2313,7 +2314,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ba/ba-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -2337,7 +2338,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sc/sc-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -2361,7 +2362,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rs/rs-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -2385,7 +2386,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pr/pr-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -2409,7 +2410,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/am/am-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -2433,14 +2434,14 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pb/pb-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
       "id": "dd-0102",
       "nome_exibicao": "Josuel Santos",
-      "rotulo_status": "Não eleito(a)",
-      "status": "NAO_ELEITO",
+      "rotulo_status": "Em apuração",
+      "status": "EM_APURACAO",
       "cargo": "Deputado(a) Estadual",
       "uf": "PE",
       "regiao": "Nordeste",
@@ -2451,13 +2452,13 @@
       "votos_nominais": 6459,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
-      "grau_certeza": "CONFIRMADO",
+      "grau_certeza": "PARCIAL",
       "pct_secoes_totalizadas": 100,
       "tipo_participacao": "TITULAR",
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pe/pe-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -2481,7 +2482,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/go/go-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -2505,7 +2506,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rs/rs-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -2529,7 +2530,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -2553,14 +2554,14 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/se/se-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
       "id": "dd-0107",
       "nome_exibicao": "Céu Albuquerque",
-      "rotulo_status": "Não eleito(a)",
-      "status": "NAO_ELEITO",
+      "rotulo_status": "Em apuração",
+      "status": "EM_APURACAO",
       "cargo": "Deputado(a) Estadual",
       "uf": "PE",
       "regiao": "Nordeste",
@@ -2571,13 +2572,13 @@
       "votos_nominais": 201,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
-      "grau_certeza": "CONFIRMADO",
+      "grau_certeza": "PARCIAL",
       "pct_secoes_totalizadas": 100,
       "tipo_participacao": "TITULAR",
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pe/pe-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -2601,7 +2602,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -2625,7 +2626,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pr/pr-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -2649,7 +2650,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ba/ba-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -2673,7 +2674,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -2697,7 +2698,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/am/am-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -2721,7 +2722,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pr/pr-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -2745,7 +2746,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -2769,7 +2770,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -2793,7 +2794,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ce/ce-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -2817,7 +2818,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -2841,7 +2842,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/mg/mg-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -2865,7 +2866,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sc/sc-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -2889,7 +2890,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sc/sc-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -2913,7 +2914,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ba/ba-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -2937,7 +2938,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pr/pr-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -2961,7 +2962,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ba/ba-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -2985,7 +2986,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -3009,7 +3010,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/mg/mg-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -3033,7 +3034,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sc/sc-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -3057,7 +3058,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/mg/mg-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -3081,7 +3082,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/mg/mg-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -3105,7 +3106,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -3129,7 +3130,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/es/es-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -3153,7 +3154,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sc/sc-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -3177,7 +3178,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -3201,7 +3202,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sc/sc-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -3225,7 +3226,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rs/rs-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -3249,7 +3250,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/mg/mg-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -3273,7 +3274,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pr/pr-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -3297,7 +3298,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/mg/mg-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -3321,7 +3322,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ap/ap-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -3345,7 +3346,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rs/rs-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -3369,7 +3370,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/mg/mg-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -3393,7 +3394,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -3417,7 +3418,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ce/ce-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -3441,7 +3442,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/es/es-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -3465,7 +3466,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/go/go-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -3489,7 +3490,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rs/rs-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -3513,7 +3514,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/mg/mg-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -3537,7 +3538,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pa/pa-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -3561,7 +3562,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -3585,7 +3586,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -3609,7 +3610,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ms/ms-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -3633,7 +3634,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ms/ms-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -3657,7 +3658,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ma/ma-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -3681,7 +3682,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -3705,7 +3706,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/es/es-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -3729,7 +3730,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/am/am-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -3753,7 +3754,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -3777,7 +3778,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -3801,7 +3802,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": null,
-      "atualizado_em": "06/10/2026 11:25:12"
+      "atualizado_em": "06/10/2026 11:30:17"
     },
     {
       "id": "dd-0159",
@@ -3824,7 +3825,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ba/ba-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -3848,7 +3849,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sc/sc-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -3872,7 +3873,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/es/es-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -3896,7 +3897,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/mt/mt-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -3920,7 +3921,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -3944,7 +3945,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pr/pr-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -3968,7 +3969,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -3992,7 +3993,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pi/pi-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -4016,7 +4017,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ba/ba-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -4040,7 +4041,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -4064,7 +4065,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/es/es-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -4088,7 +4089,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ba/ba-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -4112,14 +4113,14 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
       "id": "dd-0172",
       "nome_exibicao": "Lela do Monte",
-      "rotulo_status": "Não eleito(a)",
-      "status": "NAO_ELEITO",
+      "rotulo_status": "Em apuração",
+      "status": "EM_APURACAO",
       "cargo": "Deputado(a) Estadual",
       "uf": "PE",
       "regiao": "Nordeste",
@@ -4130,13 +4131,13 @@
       "votos_nominais": 163,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
-      "grau_certeza": "CONFIRMADO",
+      "grau_certeza": "PARCIAL",
       "pct_secoes_totalizadas": 100,
       "tipo_participacao": "TITULAR",
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pe/pe-c0007-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -4160,7 +4161,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pr/pr-c0003-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -4184,7 +4185,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rs/rs-c0003-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -4208,7 +4209,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/df/df-c0008-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -4232,7 +4233,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/df/df-c0008-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -4256,7 +4257,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/df/df-c0008-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -4280,7 +4281,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/df/df-c0008-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -4304,7 +4305,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/df/df-c0008-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -4328,7 +4329,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/df/df-c0008-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -4352,7 +4353,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/df/df-c0008-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -4376,7 +4377,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/df/df-c0008-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -4400,7 +4401,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/df/df-c0008-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -4424,7 +4425,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/df/df-c0008-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -4448,7 +4449,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/df/df-c0008-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -4472,7 +4473,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/df/df-c0008-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -4496,7 +4497,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/df/df-c0008-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -4520,7 +4521,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/df/df-c0008-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -4544,7 +4545,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -4568,7 +4569,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sc/sc-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -4592,7 +4593,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ce/ce-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -4616,7 +4617,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pr/pr-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -4640,7 +4641,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sc/sc-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -4664,7 +4665,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": null,
-      "atualizado_em": "06/10/2026 11:25:12"
+      "atualizado_em": "06/10/2026 11:30:17"
     },
     {
       "id": "dd-0195",
@@ -4687,7 +4688,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -4711,7 +4712,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/es/es-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -4735,7 +4736,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pi/pi-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -4759,7 +4760,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pi/pi-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -4783,7 +4784,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ba/ba-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -4807,7 +4808,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pa/pa-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -4831,7 +4832,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/go/go-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -4855,7 +4856,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": null,
-      "atualizado_em": "06/10/2026 11:25:12"
+      "atualizado_em": "06/10/2026 11:30:17"
     },
     {
       "id": "dd-0203",
@@ -4878,7 +4879,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rs/rs-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -4902,7 +4903,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/am/am-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -4926,7 +4927,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -4950,7 +4951,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -4974,7 +4975,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rn/rn-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -4998,7 +4999,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/df/df-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -5022,7 +5023,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sc/sc-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -5046,14 +5047,14 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pa/pa-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
       "id": "dd-0211",
       "nome_exibicao": "Kátia Cunha",
-      "rotulo_status": "Não eleito(a)",
-      "status": "NAO_ELEITO",
+      "rotulo_status": "Em apuração",
+      "status": "EM_APURACAO",
       "cargo": "Deputado(a) Federal",
       "uf": "PE",
       "regiao": "Nordeste",
@@ -5064,13 +5065,13 @@
       "votos_nominais": 1051,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
-      "grau_certeza": "CONFIRMADO",
+      "grau_certeza": "PARCIAL",
       "pct_secoes_totalizadas": 100,
       "tipo_participacao": "TITULAR",
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pe/pe-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -5094,7 +5095,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ba/ba-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -5118,7 +5119,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/am/am-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -5142,7 +5143,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -5166,7 +5167,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rs/rs-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -5190,7 +5191,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rs/rs-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -5214,7 +5215,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/mt/mt-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -5238,7 +5239,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ap/ap-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -5262,7 +5263,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -5286,7 +5287,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pr/pr-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -5310,7 +5311,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/go/go-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -5334,7 +5335,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pa/pa-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -5358,7 +5359,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/mg/mg-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -5382,7 +5383,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sc/sc-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -5406,7 +5407,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sc/sc-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -5430,7 +5431,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/es/es-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -5454,7 +5455,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ce/ce-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -5478,7 +5479,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/to/to-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -5502,7 +5503,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/go/go-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -5526,7 +5527,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ba/ba-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -5550,7 +5551,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rr/rr-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -5574,7 +5575,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/df/df-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -5598,7 +5599,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sc/sc-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -5622,7 +5623,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -5646,7 +5647,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sc/sc-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -5670,7 +5671,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rr/rr-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -5694,7 +5695,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pb/pb-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -5718,7 +5719,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -5742,7 +5743,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rs/rs-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -5766,7 +5767,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/mg/mg-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -5790,7 +5791,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/am/am-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -5814,7 +5815,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rr/rr-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -5838,7 +5839,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -5862,7 +5863,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pr/pr-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -5886,7 +5887,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ba/ba-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -5910,7 +5911,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/es/es-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -5934,14 +5935,14 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
       "id": "dd-0248",
       "nome_exibicao": "Miqueias Emanoel",
-      "rotulo_status": "Não eleito(a)",
-      "status": "NAO_ELEITO",
+      "rotulo_status": "Em apuração",
+      "status": "EM_APURACAO",
       "cargo": "Deputado(a) Federal",
       "uf": "PE",
       "regiao": "Nordeste",
@@ -5952,13 +5953,13 @@
       "votos_nominais": 149,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
-      "grau_certeza": "CONFIRMADO",
+      "grau_certeza": "PARCIAL",
       "pct_secoes_totalizadas": 100,
       "tipo_participacao": "TITULAR",
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pe/pe-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -5982,14 +5983,14 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
       "id": "dd-0250",
       "nome_exibicao": "Manu Mirella",
-      "rotulo_status": "Não eleito(a)",
-      "status": "NAO_ELEITO",
+      "rotulo_status": "Em apuração",
+      "status": "EM_APURACAO",
       "cargo": "Deputado(a) Federal",
       "uf": "PE",
       "regiao": "Nordeste",
@@ -6000,13 +6001,13 @@
       "votos_nominais": 2237,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
-      "grau_certeza": "CONFIRMADO",
+      "grau_certeza": "PARCIAL",
       "pct_secoes_totalizadas": 100,
       "tipo_participacao": "TITULAR",
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pe/pe-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -6030,7 +6031,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rs/rs-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -6054,7 +6055,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ms/ms-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -6078,7 +6079,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rs/rs-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -6102,7 +6103,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/go/go-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -6126,7 +6127,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -6150,7 +6151,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -6174,7 +6175,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/mg/mg-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -6198,7 +6199,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/go/go-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -6222,7 +6223,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": null,
-      "atualizado_em": "06/10/2026 11:25:12"
+      "atualizado_em": "06/10/2026 11:30:17"
     },
     {
       "id": "dd-0260",
@@ -6245,7 +6246,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/mg/mg-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -6269,7 +6270,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -6293,7 +6294,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -6317,7 +6318,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -6341,7 +6342,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/mg/mg-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -6365,7 +6366,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ba/ba-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -6389,7 +6390,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/go/go-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -6413,7 +6414,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/go/go-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -6437,7 +6438,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sc/sc-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -6461,7 +6462,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rs/rs-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -6485,7 +6486,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pr/pr-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -6509,7 +6510,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ma/ma-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -6533,7 +6534,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sc/sc-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -6557,7 +6558,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rs/rs-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -6581,7 +6582,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -6605,7 +6606,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ba/ba-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -6629,7 +6630,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rs/rs-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -6653,7 +6654,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rn/rn-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -6677,7 +6678,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ce/ce-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -6701,7 +6702,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -6725,7 +6726,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/mg/mg-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -6749,7 +6750,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rn/rn-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -6773,7 +6774,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/es/es-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -6797,7 +6798,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/am/am-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -6821,7 +6822,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rs/rs-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -6845,7 +6846,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pr/pr-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -6869,7 +6870,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pr/pr-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -6893,7 +6894,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sc/sc-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -6917,7 +6918,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pr/pr-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -6941,7 +6942,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rs/rs-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -6965,7 +6966,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ro/ro-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -6989,7 +6990,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pa/pa-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -7013,7 +7014,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/mg/mg-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -7037,7 +7038,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/df/df-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -7061,7 +7062,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pa/pa-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -7085,14 +7086,14 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ce/ce-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
       "id": "dd-0296",
       "nome_exibicao": "Rosa Amorim",
-      "rotulo_status": "Eleito(a)",
-      "status": "ELEITO",
+      "rotulo_status": "Em apuração",
+      "status": "EM_APURACAO",
       "cargo": "Deputado(a) Federal",
       "uf": "PE",
       "regiao": "Nordeste",
@@ -7103,13 +7104,13 @@
       "votos_nominais": 144101,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
-      "grau_certeza": "CONFIRMADO",
+      "grau_certeza": "PARCIAL",
       "pct_secoes_totalizadas": 100,
       "tipo_participacao": "TITULAR",
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pe/pe-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -7133,7 +7134,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sc/sc-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -7157,7 +7158,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pa/pa-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -7181,7 +7182,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rs/rs-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -7205,7 +7206,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/mt/mt-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -7229,7 +7230,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/mg/mg-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -7253,7 +7254,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ce/ce-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -7277,7 +7278,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/am/am-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -7301,14 +7302,14 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ma/ma-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
       "id": "dd-0305",
       "nome_exibicao": "Fernando do Salve",
-      "rotulo_status": "Não eleito(a)",
-      "status": "NAO_ELEITO",
+      "rotulo_status": "Em apuração",
+      "status": "EM_APURACAO",
       "cargo": "Deputado(a) Federal",
       "uf": "PE",
       "regiao": "Nordeste",
@@ -7319,13 +7320,13 @@
       "votos_nominais": 300,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
-      "grau_certeza": "CONFIRMADO",
+      "grau_certeza": "PARCIAL",
       "pct_secoes_totalizadas": 100,
       "tipo_participacao": "TITULAR",
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pe/pe-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -7349,7 +7350,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sc/sc-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -7373,14 +7374,14 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
       "id": "dd-0308",
       "nome_exibicao": "Bruna Ambiental",
-      "rotulo_status": "Não eleito(a)",
-      "status": "NAO_ELEITO",
+      "rotulo_status": "Em apuração",
+      "status": "EM_APURACAO",
       "cargo": "Deputado(a) Federal",
       "uf": "PE",
       "regiao": "Nordeste",
@@ -7391,20 +7392,20 @@
       "votos_nominais": 658,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
-      "grau_certeza": "CONFIRMADO",
+      "grau_certeza": "PARCIAL",
       "pct_secoes_totalizadas": 100,
       "tipo_participacao": "TITULAR",
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pe/pe-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
       "id": "dd-0309",
       "nome_exibicao": "Matheus do Mlb",
-      "rotulo_status": "Não eleito(a)",
-      "status": "NAO_ELEITO",
+      "rotulo_status": "Em apuração",
+      "status": "EM_APURACAO",
       "cargo": "Deputado(a) Federal",
       "uf": "PE",
       "regiao": "Nordeste",
@@ -7415,13 +7416,13 @@
       "votos_nominais": 458,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
-      "grau_certeza": "CONFIRMADO",
+      "grau_certeza": "PARCIAL",
       "pct_secoes_totalizadas": 100,
       "tipo_participacao": "TITULAR",
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pe/pe-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -7445,7 +7446,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sc/sc-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -7469,7 +7470,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/mg/mg-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -7493,7 +7494,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/df/df-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -7517,7 +7518,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ba/ba-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -7541,7 +7542,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/df/df-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -7565,7 +7566,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -7589,7 +7590,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pa/pa-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -7613,7 +7614,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ce/ce-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -7637,7 +7638,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/mg/mg-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -7661,7 +7662,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/es/es-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -7685,7 +7686,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pa/pa-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -7709,7 +7710,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -7733,7 +7734,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pr/pr-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -7757,7 +7758,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -7781,7 +7782,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ro/ro-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -7805,14 +7806,14 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/df/df-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
       "id": "dd-0326",
       "nome_exibicao": "Carla Félix",
-      "rotulo_status": "Não eleito(a)",
-      "status": "NAO_ELEITO",
+      "rotulo_status": "Em apuração",
+      "status": "EM_APURACAO",
       "cargo": "Deputado(a) Federal",
       "uf": "PE",
       "regiao": "Nordeste",
@@ -7823,13 +7824,13 @@
       "votos_nominais": 291,
       "pct_votos_validos": null,
       "posicao_uf_geral": 0,
-      "grau_certeza": "CONFIRMADO",
+      "grau_certeza": "PARCIAL",
       "pct_secoes_totalizadas": 100,
       "tipo_participacao": "TITULAR",
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pe/pe-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -7853,7 +7854,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/ac/ac-c0006-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -7877,7 +7878,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pa/pa-c0005-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -7901,7 +7902,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/es/es-c0005-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -7925,7 +7926,7 @@
       "chapa_titular": null,
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj-c0005-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -7949,7 +7950,7 @@
       "chapa_titular": "MARINA SILVA",
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0005-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -7973,7 +7974,7 @@
       "chapa_titular": "VERA LÚCIA",
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/sp/sp-c0003-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -7997,7 +7998,7 @@
       "chapa_titular": "GAL LEITE",
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/pa/pa-c0003-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -8021,7 +8022,7 @@
       "chapa_titular": "PROFESSORA SAMARA MINEIRO",
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/df/df-c0003-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -8045,7 +8046,7 @@
       "chapa_titular": "GILBERTO VASCONCELOS",
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/am/am-c0003-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -8069,7 +8070,7 @@
       "chapa_titular": "ISAEL MUNDURUKU",
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/am/am-c0003-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     },
     {
@@ -8093,7 +8094,7 @@
       "chapa_titular": "PRISCILA VOIGT",
       "coletiva": false,
       "url_conferencia": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rs/rs-c0003-e006259-u.json",
-      "atualizado_em": "06/10/2026 11:25:12",
+      "atualizado_em": "06/10/2026 11:30:17",
       "na_faixa_eleicao": false
     }
   ],
